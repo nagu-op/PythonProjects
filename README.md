@@ -1,2 +1,3 @@
 # oldPythonProjects
 Just the projects i did when i was a newbie
+Don't judge it. Iwas just a begginer then, all suggestions are welcomed.....
