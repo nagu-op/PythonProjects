@@ -1,3 +1,1 @@
-# oldPythonProjects
-Just the projects i did when i was a newbie
-Don't judge it. Iwas just a begginer then, all suggestions are welcomed.....
+Just the projects I did when I was a newbie. Don't judge them; I was just a beginner then, and all suggestions are welcomed.
